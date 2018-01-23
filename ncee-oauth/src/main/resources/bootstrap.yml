@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: ncee-oauth
-
-server:
-  port: 8804

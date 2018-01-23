@@ -1,3 +1,0 @@
-# ncee-oauth
-
-

@@ -17,8 +17,4 @@
 	</developers>
 
 
-	<modules>
-		<module>ncee-api</module>
-		<module>ncee-oauth</module>
-	</modules>
 </project>
