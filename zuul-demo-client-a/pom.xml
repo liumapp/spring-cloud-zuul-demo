@@ -8,8 +8,8 @@
     <version>v1.0.0</version>
   </parent>
 
-  <groupId>com.liumapp.demo.zuul.client</groupId>
-  <artifactId>eureka-demo-client</artifactId>
+  <groupId>com.liumapp.demo.zuul.client.a</groupId>
+  <artifactId>zuul-demo-client-a</artifactId>
   <version>v1.0.0</version>
   <packaging>jar</packaging>
 
@@ -19,7 +19,7 @@
     <java.version>1.8</java.version>
   </properties>
 
-  <name>eureka-demo-client</name>
+  <name>spring-cloud-zuul-demo-a</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
@@ -43,6 +43,13 @@
       <plugin>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
+        <executions>
+          <execution>
+            <goals>
+              <goal>repackage</goal>
+            </goals>
+          </execution>
+        </executions>
       </plugin>
     </plugins>
   </build>

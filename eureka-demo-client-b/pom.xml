@@ -9,7 +9,7 @@
   </parent>
 
   <groupId>com.liumapp.demo.zuul.client.b</groupId>
-  <artifactId>eureka-demo-client-b</artifactId>
+  <artifactId>zuul-demo-client-b</artifactId>
   <version>v1.0.0</version>
   <packaging>jar</packaging>
 
