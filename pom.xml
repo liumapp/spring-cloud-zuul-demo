@@ -18,6 +18,7 @@
 
 	<modules>
 		<module>tmp</module>
-	</modules>
+    <module>spring-cloud-zuul-demo</module>
+  </modules>
 
 </project>
