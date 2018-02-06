@@ -1,4 +1,4 @@
-package com.liumapp.demo.zuul.customer.a.controller;
+package com.liumapp.demo.zuul.customer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

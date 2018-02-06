@@ -1,4 +1,4 @@
-package com.liumapp.demo.zuul.customer.a;
+package com.liumapp.demo.zuul.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
  * home-page:http://www.liumapp.com
  */
 @EnableDiscoveryClient
-@SpringBootApplication(scanBasePackages = {"com.liumapp.demo.zuul.customer.a"})
+@SpringBootApplication(scanBasePackages = {"com.liumapp.demo.zuul.customer"})
 public class Main {
 
     @Bean
