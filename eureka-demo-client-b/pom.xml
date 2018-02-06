@@ -13,10 +13,6 @@
   <version>v1.0.0</version>
   <packaging>jar</packaging>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-
   <name>zuul-demo-client-b</name>
   <url>http://maven.apache.org</url>
 
