@@ -33,7 +33,6 @@
 		<module>zuul-demo-client-a</module>
 		<module>zuul-demo-client-b</module>
 		<module>zuul-demo-eureka</module>
-		<module>zuul-demo-customer</module>
 		<module>zuul-demo-gateway</module>
 	</modules>
 
