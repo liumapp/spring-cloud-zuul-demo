@@ -31,6 +31,9 @@
 
 	<modules>
 		<!--<module>tmp</module>-->
+		<!--<module>zuul-demo-client-a</module>-->
+		<!--<module>zuul-demo-client-b</module>-->
+		<module>zuul-demo-eureka</module>
 	</modules>
 
 	<dependencyManagement>

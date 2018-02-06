@@ -8,15 +8,10 @@
     <version>v1.0.0</version>
   </parent>
 
-  <groupId>com.liumapp.demo.zuul.server</groupId>
+  <groupId>com.liumapp.demo.zuul.eureka</groupId>
   <artifactId>zuul-demo-eureka</artifactId>
   <version>v1.0.0</version>
   <packaging>jar</packaging>
-
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <java.version>1.8</java.version>
-  </properties>
 
   <name>zuul-server-eureka</name>
   <url>http://maven.apache.org</url>
