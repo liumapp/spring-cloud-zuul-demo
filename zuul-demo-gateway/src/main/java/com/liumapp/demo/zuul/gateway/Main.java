@@ -1,7 +1,7 @@
-package com.liumapp.demo.zuul.core;
+package com.liumapp.demo.zuul.gateway;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.SpringCloudApplication;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 /**
@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
  * home-page:http://www.liumapp.com
  */
 @EnableZuulProxy
-@SpringBootApplication(scanBasePackages = {"com.liumapp.demo.zuul.core"})
+@SpringCloudApplication()
 public class Main {
 
     public static void main(String[] args) {

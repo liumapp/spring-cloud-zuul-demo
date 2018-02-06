@@ -35,8 +35,8 @@
 		<module>zuul-demo-client-b</module>
 		<module>zuul-demo-eureka</module>
 		<module>zuul-demo-customer</module>
-    <module>zuul-demo-core</module>
-  </modules>
+		<module>zuul-demo-gateway</module>
+	</modules>
 
 	<dependencyManagement>
 		<dependencies>
