@@ -36,7 +36,6 @@
 		<module>zuul-demo-eureka</module>
 		<module>zuul-demo-customer</module>
 		<module>zuul-demo-gateway</module>
-		<module>spring-cloud-feign-demo</module>
 	</modules>
 
 	<dependencyManagement>
