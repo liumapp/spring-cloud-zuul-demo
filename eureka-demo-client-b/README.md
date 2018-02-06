@@ -1,1 +1,1 @@
-# Eureka-demo-client-b
+# zuul-demo-client-b

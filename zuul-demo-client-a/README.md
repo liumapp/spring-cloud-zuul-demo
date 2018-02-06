@@ -1,2 +1,2 @@
-# Eureka-demo-client-a
+# zuul-demo-client-a
 
