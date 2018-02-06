@@ -1,15 +1,15 @@
 package com.liumapp.demo.zuul.client.b.controller;
 
-import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Created by liumapp on 9/28/17.
  * E-mail:liumapp.com@gmail.com
  * home-page:http://www.liumapp.com
  */
-@Controller
+@RestController
 @RequestMapping("/")
 public class IndexController {
 
