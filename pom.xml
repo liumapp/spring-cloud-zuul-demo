@@ -30,7 +30,7 @@
 	</developers>
 
 	<modules>
-		<module>tmp</module>
+		<!--<module>tmp</module>-->
 	</modules>
 
 	<dependencyManagement>

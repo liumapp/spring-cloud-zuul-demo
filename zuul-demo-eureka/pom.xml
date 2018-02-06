@@ -9,7 +9,7 @@
   </parent>
 
   <groupId>com.liumapp.demo.zuul.server</groupId>
-  <artifactId>eureka-demo-server</artifactId>
+  <artifactId>zuul-demo-eureka</artifactId>
   <version>v1.0.0</version>
   <packaging>jar</packaging>
 
@@ -18,7 +18,7 @@
     <java.version>1.8</java.version>
   </properties>
 
-  <name>eureka-server-demo</name>
+  <name>zuul-server-eureka</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
